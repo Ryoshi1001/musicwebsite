@@ -77,6 +77,8 @@ const SVG = ({
     "#A534A0",
     "#A8A438",
     "#D6590C",
+    "#E8DA55",//yellowcolor
+    "#F6027E",//redcolor
     "#46A29C",
     "#670F6D",
     "#D7C200",
